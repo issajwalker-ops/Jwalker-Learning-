@@ -1,0 +1,6 @@
+{
+  "name": "Learning Gateway",
+  "description": "Android client for the J. Walker Learning Gateway portal (j-walker-learning-gateway.lovable.app) with full-screen portal navigation, bookmarks, file upload/download support, and offline recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
